@@ -1,0 +1,48 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Viewing the diff between two files highlight the difference
+    between the two. This makes it easier when debugging your code to
+    check for any typo or logical errors.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    When you code the first time, you don't neccesarily have the best version of your program. We get better each time and so when we check our history,
+    we realized that we can improve the code and make it shorter or more efficient.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+	Manually:
+    ---Pros:
+    	You are certain of the changes you made.
+    	You can save whenever you want.
+    ---Cons:
+    	You might forget to comit your changes.
+
+    Automatically:
+    ---Pros:
+    	Forget-free
+    ---Cons:
+    	Can be a problem when it automatically comits on the middle of the code
+    	you are working on. 
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    So we can compare what changes we did with all the files because there maybe times that files are related to each other.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    You can use git log to see all the comits and then git diff to see the difference between two comits.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Using version control can take me back to my code where it was previously working so I can apply any changes to the current code without having to worry that I might break something.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to try git with my own codes
