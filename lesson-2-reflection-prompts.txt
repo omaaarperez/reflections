@@ -17,9 +17,19 @@ organized? How would branches help?
 	Branches would be helpful when you want to experiment with your project
 
 How do the diagrams help you visualize the branch structure?
-
+	
+	It makes it easier to understand because you can actually see commits on different branches
+	
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+	Two branches converges together. We represent it in the branch to show the they got split into branch and then combined again.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+	AutoMerge:
+	Pros: Notifies user of conflict with the code
+	Cons: Does not always work
+
+	Manual: 
+	Pros: You can always check what is added
+	Cons: Prone to user error
